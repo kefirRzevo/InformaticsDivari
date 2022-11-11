@@ -1,0 +1,25 @@
+STACK ADDRESS: 0x7ff7b4ec96b8 StackCtor SUCCESS                     
+STACK ADDRESS: 0x7ff7b4ec96b8 StackPush SUCCESS                     
+STACK ADDRESS: 0x7ff7b4ec96b8 StackPush SUCCESS                     
+STACK ADDRESS: 0x7ff7b4ec96b8 StackPush SUCCESS                     
+STACK ADDRESS: 0x7ff7b4ec96b8 StackPush SUCCESS                     
+STACK ADDRESS: 0x7ff7b4ec96b8 StackPush SUCCESS                     
+STACK ADDRESS: 0x7ff7b4ec96b8 StackPush SUCCESS                     
+
+| Stack information:                  |
+| address:           0x7ff7b4ec96b8 OK|
+| size:              6              OK|
+| capacity:          8              OK|
+| data:              0x600003e39120 OK|
+| *1:	        11 |
+| *2:	        13 |
+| *3:	        17 |
+| *4:	        23 |
+| *5:	        29 |
+| *6:	        31 |
+|  7:	         0 |
+|  8:	         0 |
+
+STACK ADDRESS: 0x7ff7b4ec96b8 StackDump SUCCESS                     
+STACK ADDRESS: 0x7ff7b4ec96b8 StackDtor SUCCESS                     
+STACK ADDRESS: 0x7ff7b4ec96a8 StackCtor SUCCESS                     

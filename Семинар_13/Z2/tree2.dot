@@ -1,0 +1,12 @@
+digraph G 
+{
+bgcolor  = "#FFFFFF"
+compound = true
+newrank  = true
+graph[dpi = 250, splines = polyline, nodesep = 0.3, ranksep = 1]
+node[shape = box, style = "filled", penwidth = 2, margin = 0.04,
+fontsize = 16, fontname = "Consolas"]
+edge[arrowsize = 0.7, style = solid, penwidth = 1.1]
+	Node0x60000180d120 [label = 7   ]	Node0x60000180d140 [label = 6   ]	Node0x60000180d120 -> Node0x60000180d140;         
+	Node0x60000180d120 [label = 7   ]	Node0x60000180d160 [label = 9   ]	Node0x60000180d120 -> Node0x60000180d160;         
+}

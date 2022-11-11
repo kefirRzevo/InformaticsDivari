@@ -1,0 +1,5 @@
+STACK ADDRESS: 0x7ff7b76156f0 StackCtor SUCCESS                     
+STACK ADDRESS: 0x7ff7b76156f0 StackPush SUCCESS                     
+STACK ADDRESS: 0x7ff7b76156f0 StackPush SUCCESS                     
+STACK ADDRESS: 0x7ff7b76156f0 StackPop  SUCCESS                     
+STACK ADDRESS: 0x7ff7b76156f0 StackDtor SUCCESS                     

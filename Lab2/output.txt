@@ -1,0 +1,30 @@
+betta:                 3.0
+decay_time:          3.008
+decay_rate:          7.834
+time_differences:      4.2
+
+betta:                 4.0
+decay_time:          4.007
+decay_rate:          8.608
+time_differences:      5.5
+
+betta:                 4.5
+decay_time:          4.507
+decay_rate:          9.025
+time_differences:      6.1
+
+betta:                 3.7
+decay_time:          3.707
+decay_rate:          8.366
+time_differences:      5.1
+
+betta:                 5.0
+decay_time:          5.006
+decay_rate:          9.456
+time_differences:      6.9
+
+betta:                 5.3
+decay_time:          5.306
+decay_rate:          9.720
+time_differences:      7.2
+

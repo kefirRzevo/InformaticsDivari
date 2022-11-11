@@ -1,0 +1,27 @@
+digraph G 
+{
+	Node0x600003e89380 [label = 1   ]	Node0x600003e89240 [label = 1   ]	Node0x600003e89380 -> Node0x600003e89240;         
+	Node0x600003e89180 [label = 1   ]	Node0x600003e89380 [label = 1   ]	Node0x600003e89180 -> Node0x600003e89380;         
+	Node0x600003e89360 [label = 2   ]	Node0x600003e89180 [label = 1   ]	Node0x600003e89360 -> Node0x600003e89180;         
+	Node0x600003e89160 [label = 2   ]	Node0x600003e89360 [label = 2   ]	Node0x600003e89160 -> Node0x600003e89360;         
+	Node0x600003e89340 [label = 3   ]	Node0x600003e89160 [label = 2   ]	Node0x600003e89340 -> Node0x600003e89160;         
+	Node0x600003e891e0 [label = 4   ]	Node0x600003e892a0 [label = 4   ]	Node0x600003e891e0 -> Node0x600003e892a0;         
+	Node0x600003e89280 [label = 5   ]	Node0x600003e891e0 [label = 4   ]	Node0x600003e89280 -> Node0x600003e891e0;         
+	Node0x600003e89280 [label = 5   ]	Node0x600003e89200 [label = 6   ]	Node0x600003e89280 -> Node0x600003e89200;         
+	Node0x600003e891c0 [label = 5   ]	Node0x600003e89280 [label = 5   ]	Node0x600003e891c0 -> Node0x600003e89280;         
+	Node0x600003e891c0 [label = 5   ]	Node0x600003e892e0 [label = 6   ]	Node0x600003e891c0 -> Node0x600003e892e0;         
+	Node0x600003e89340 [label = 3   ]	Node0x600003e891c0 [label = 5   ]	Node0x600003e89340 -> Node0x600003e891c0;         
+	Node0x600003e89140 [label = 3   ]	Node0x600003e89340 [label = 3   ]	Node0x600003e89140 -> Node0x600003e89340;         
+	Node0x600003e893e0 [label = 5   ]	Node0x600003e89400 [label = 4   ]	Node0x600003e893e0 -> Node0x600003e89400;         
+	Node0x600003e893e0 [label = 5   ]	Node0x600003e89420 [label = 6   ]	Node0x600003e893e0 -> Node0x600003e89420;         
+	Node0x600003e89140 [label = 3   ]	Node0x600003e893e0 [label = 5   ]	Node0x600003e89140 -> Node0x600003e893e0;         
+	Node0x600003e892c0 [label = 7   ]	Node0x600003e89140 [label = 3   ]	Node0x600003e892c0 -> Node0x600003e89140;         
+	Node0x600003e89260 [label = 9   ]	Node0x600003e89220 [label = 8   ]	Node0x600003e89260 -> Node0x600003e89220;         
+	Node0x600003e891a0 [label = 9   ]	Node0x600003e89260 [label = 9   ]	Node0x600003e891a0 -> Node0x600003e89260;         
+	Node0x600003e892c0 [label = 7   ]	Node0x600003e891a0 [label = 9   ]	Node0x600003e892c0 -> Node0x600003e891a0;         
+	Node0x600003e89320 [label = 7   ]	Node0x600003e892c0 [label = 7   ]	Node0x600003e89320 -> Node0x600003e892c0;         
+	Node0x600003e89320 [label = 7   ]	Node0x600003e89300 [label = 8   ]	Node0x600003e89320 -> Node0x600003e89300;         
+	Node0x600003e89120 [label = 7   ]	Node0x600003e89320 [label = 7   ]	Node0x600003e89120 -> Node0x600003e89320;         
+	Node0x600003e893a0 [label = 9   ]	Node0x600003e893c0 [label = 8   ]	Node0x600003e893a0 -> Node0x600003e893c0;         
+	Node0x600003e89120 [label = 7   ]	Node0x600003e893a0 [label = 9   ]	Node0x600003e89120 -> Node0x600003e893a0;         
+}

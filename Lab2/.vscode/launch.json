@@ -1,0 +1,49 @@
+
+{
+    "version":"2.0.0",
+    "tasks": [
+        {
+            "type": "cppbuild",
+            "label": "C/C++: clang сборка активного файла",
+            "command": "/usr/bin/clang",
+            "args": [
+                "-fdiagnostics-color=always",
+                "-g",
+                "${workspaceFolder}/main.c",
+                "${workspaceFolder}/part1.c",
+                "-o",
+                "${workspaceFolder}/main"
+            ],
+            "options": {
+                "cwd": "${workspaceFolder}"
+            },
+            "problemMatcher": [
+                "$gcc"
+            ],
+            "group": "build",
+            "detail": "компилятор: /usr/bin/clang"
+        }
+    ],
+    "configurations": [
+        {
+            "name": "(lldb) Подключить",
+            "type": "cppdbg",
+            "request": "attach",
+            "program": "Введите имя программы, например: ${workspaceFolder}/a.out",
+            "processId": "${command:pickProcess}",
+            "MIMode": "lldb"
+        },
+    {
+        "name": "(lldb) Запустить",
+        "type": "cppdbg",
+        "request": "launch",
+        "program": "Введите имя программы, например: ${workspaceFolder}/a.out",
+        "args": [],
+        "stopAtEntry": false,
+        "cwd": "${fileDirname}",
+        "environment": [],
+        "externalConsole": false,
+        "MIMode": "lldb"
+    }
+    ]
+}

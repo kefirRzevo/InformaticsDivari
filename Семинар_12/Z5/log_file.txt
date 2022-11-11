@@ -1,0 +1,74 @@
+STACK ADDRESS: 0x7ff7b2c926b0 StackCtor SUCCESS                     
+
+| Stack information:                  |
+| address:           0x7ff7b2c926b0 OK|
+| size:              0              OK|
+| capacity:          1              OK|
+| data:              0x600002e34000 OK|
+|  1:	         0 |
+
+STACK ADDRESS: 0x7ff7b2c926b0 StackDump SUCCESS                     
+STACK ADDRESS: 0x7ff7b2c926b0 StackPush SUCCESS                     
+STACK ADDRESS: 0x7ff7b2c926b0 StackPush SUCCESS                     
+STACK ADDRESS: 0x7ff7b2c926b0 StackPush SUCCESS                     
+STACK ADDRESS: 0x7ff7b2c926b0 StackPush SUCCESS                     
+STACK ADDRESS: 0x7ff7b2c926b0 StackPush SUCCESS                     
+STACK ADDRESS: 0x7ff7b2c926b0 StackPush SUCCESS                     
+STACK ADDRESS: 0x7ff7b2c926b0 StackPush SUCCESS                     
+STACK ADDRESS: 0x7ff7b2c926b0 StackPush SUCCESS                     
+STACK ADDRESS: 0x7ff7b2c926b0 StackPush SUCCESS                     
+STACK ADDRESS: 0x7ff7b2c926b0 StackPush SUCCESS                     
+STACK ADDRESS: 0x7ff7b2c926b0 StackPush SUCCESS                     
+STACK ADDRESS: 0x7ff7b2c926b0 StackPush SUCCESS                     
+STACK ADDRESS: 0x7ff7b2c926b0 StackPush SUCCESS                     
+STACK ADDRESS: 0x7ff7b2c926b0 StackPush SUCCESS                     
+STACK ADDRESS: 0x7ff7b2c926b0 StackPush SUCCESS                     
+
+| Stack information:                  |
+| address:           0x7ff7b2c926b0 OK|
+| size:              15             OK|
+| capacity:          16             OK|
+| data:              0x600003938000 OK|
+| *1:	        -1 |
+| *2:	         1 |
+| *3:	        -1 |
+| *4:	         1 |
+| *5:	         2 |
+| *6:	         1 |
+| *7:	         4 |
+| *8:	         1 |
+| *9:	        -1 |
+| *10:	        -1 |
+| *11:	         1 |
+| *12:	         1 |
+| *13:	         3 |
+| *14:	         4 |
+| *15:	         1 |
+|  16:	         0 |
+
+STACK ADDRESS: 0x7ff7b2c926b0 StackDump SUCCESS                     
+STACK ADDRESS: 0x7ff7b2c926b0 StackPop  SUCCESS                     
+STACK ADDRESS: 0x7ff7b2c926b0 StackPop  SUCCESS                     
+STACK ADDRESS: 0x7ff7b2c926b0 StackPop  SUCCESS                     
+STACK ADDRESS: 0x7ff7b2c926b0 StackPop  SUCCESS                     
+STACK ADDRESS: 0x7ff7b2c926b0 StackPop  SUCCESS                     
+STACK ADDRESS: 0x7ff7b2c926b0 StackPop  SUCCESS                     
+STACK ADDRESS: 0x7ff7b2c926b0 StackPop  SUCCESS                     
+STACK ADDRESS: 0x7ff7b2c926b0 StackPop  SUCCESS                     
+STACK ADDRESS: 0x7ff7b2c926b0 StackPop  SUCCESS                     
+STACK ADDRESS: 0x7ff7b2c926b0 StackPop  SUCCESS                     
+STACK ADDRESS: 0x7ff7b2c926b0 StackPop  SUCCESS                     
+STACK ADDRESS: 0x7ff7b2c926b0 StackPop  SUCCESS                     
+STACK ADDRESS: 0x7ff7b2c926b0 StackPop  SUCCESS                     
+STACK ADDRESS: 0x7ff7b2c926b0 StackPop  SUCCESS                     
+STACK ADDRESS: 0x7ff7b2c926b0 StackPop  SUCCESS                     
+
+| Stack information:                  |
+| address:           0x7ff7b2c926b0 OK|
+| size:              0              OK|
+| capacity:          1              OK|
+| data:              0x600002e34000 OK|
+|  1:	        -1 |
+
+STACK ADDRESS: 0x7ff7b2c926b0 StackDump SUCCESS                     
+STACK ADDRESS: 0x7ff7b2c926b0 StackDtor SUCCESS                     
